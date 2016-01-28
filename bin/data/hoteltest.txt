@@ -1,0 +1,8 @@
+id~hotelName~stars~price~cityName~stateName~countryCode~countryName~address~location~url~tripadvisorUrl~latitude~longitude~latlong~propertyType~chainId~rooms~facilities~checkIn~checkOut~rating
+80171~Fafa Island Resort~3~172~NukuAlofa~~TO~Tonga~Fafa Island PO Box 1444~NukuAlofa,Tonga~~~-21.0862~-175.16~15905~7~0~~2|3|5|9|13|20|22|31|34|40|53|59|60|65|66|72|108|202|203|209|210|211|~~~0
+161125~International Dateline Hotel~3~99999~NukuAlofa~~TO~Tonga~P.O.Box 39 Vuna Road~NukuAlofa,Tonga~http://www.datelinehotel.com/~~-21.1263~-175.213~15905~0~74~~1|2|3|7|10|17|21|22|39|41|51|56|64|140|183|185|196|240|257|~~~0
+166963~Kava Palm Guesthouse NukuAlofa~2~99999~NukuAlofa~~TO~Tonga~Taufaa ahau Road~NukuAlofa,Tonga~~~-21.1599~-175.229~15905~8~0~~56|~~~0
+174928~Lagoon Lodge Nuku‚Äòalofa~3~99~NukuAlofa~~TO~Tonga~Umusi Road Fanga‚Äôuta Lagoon Ma‚Äôufanga~NukuAlofa,Tonga~~~-21.153~-175.231~15905~9~0~~~~~0
+181990~Likualofa Beach Resort~3~105~Kanokupolu~~TO~Tonga~Private Bag No.2~Kanokupolu,Tonga~~/Hotel_Review-g294142-d1228904-Reviews-Liku_alofa_Beach_Resort-Nuku_alofa_Tongatapu.html~-21.0822~-175.345~15905~7~0~17~2|3|5|6|7|9|13|14|15|22|39|40|41|49|51|53|56|59|60|65|66|72|108|140|141|191|202|204|209|210|211|222|292|~~~8
+182667~Little Italy Hotel NukuAlofa~5~152~NukuAlofa~~TO~Tonga~P.O.Box 2891 Vuna Road Kolomotua~NukuAlofa,Tonga~http://littleitalytonga.com/~/Hotel_Review-g294142-d1132310-Reviews-Ltle_Italy_Hotel_Restaurant-Nuku_alofa_Tongatapu.html~-21.1343~-175.196~15905~0~0~~2|5|9|11|13|21|22|31|65|136|141|148|202|~~~0
+184783~Loumaile Lodge~4~168~NukuAlofa~~TO~Tonga~Taufa‚Äôahau Road~NukuAlofa,Tonga~~~-21.1361~-175.202~15905~8~0~~1|2|3|4|5|6|7|9|13|14|19|21|22|30|39|40|41|49|51|53|56|60|64|65|139|185|187|191|196|202|209|253|257|292|~~~0
